@@ -37,7 +37,6 @@ The whole UI is fully designed by me with lots of modifications to the codes wit
 
 You can change the webpage it loads and modify its functions to fulfill your work scenario. <br />
 
-If you are using my work, then a little mention will be great! [Originally Created by Aniket Biswas].<br />
 Have Fun!<br /><br/>
 ![aniket](https://user-images.githubusercontent.com/97422997/215474929-f62ea22d-16e5-4053-a943-605b6828830c.png)
 
